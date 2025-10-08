@@ -1,0 +1,1 @@
+Works realized in the context of the CNAM Paris [NFP106 class](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-208617.kjsp) 'Intelligence artificielle'
