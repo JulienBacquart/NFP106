@@ -16,4 +16,4 @@ Implemented using a Breadth-first search algorithm, because of the limited size 
 
 - [Eight queens puzzle](./8_queens_problem/) : Place eight chess queens on an 8×8 chessboard such that no two queens threaten each other (no two queens share the same row, column, or diagonal).  
 See the [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle) wikipedia page for more details.  
-Solved using different Hill Climbing/Gradient Descent algorithms and Simulated Annealing.
+Solved using different Hill Climbing/Gradient Descent algorithms, Simulated Annealing and Local Beam Search.
